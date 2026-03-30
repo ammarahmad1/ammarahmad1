@@ -27,8 +27,8 @@
 ammar = {
     "location"    : "Pakistan 🇵🇰",
     "role"        : "Software Engineer @ Devstrix | Ex-Co-founder @ Auto-Scale AI",
-    "focus"       : ["AI Automation", "Full Stack Dev", "Web3", "CRM Systems"],
-    "building"    : ["Luv.events 💜", "AI Voice Agents", "Custom CRM Platforms"],
+    "focus"       : ["AI Automation", "Full Stack Dev", "Web3", "Scalable Systems"],
+    "building"    : ["AI Voice Agents", "Custom CRM Platforms"],
     "philosophy"  : "Ship fast. Iterate faster. Make the impossible possible.",
     "certified"   : "Oracle Cloud Infrastructure Data Science Professional ☁️",
     "education"   : "B.S. Computer Science — Institute of Space Technology, Islamabad",
@@ -135,21 +135,7 @@ A full-stack Web3 platform integrating real-time market data, AI analytics, and 
 
 `Next.js` `Python` `Web3.js` `Ethers.js` `CoinGecko API` `Telethon` `MongoDB`
 
----
 
-### 💜 [Luv.events — Social Event Platform](https://github.com/ammarahmad1)
-> **Event discovery + social networking platform**
-
-A full-featured event planning & social media platform with a 15-day phased messaging backend architecture.
-
-- 📨 Native WebSocket messaging (no Redis)
-- ☁️ AWS S3 media storage
-- 🏗️ Phased build: Auth → Messaging → Events → Social
-
-`FastAPI` `PostgreSQL` `React` `AWS S3` `WebSockets`
-
-    </td>
-    <td width="50%" valign="top">
 
 ### 🎙️ [AI Voice Agents — Auto-Scale AI](https://github.com/ammarahmad1)
 > **Production AI voice agents for business automation**
