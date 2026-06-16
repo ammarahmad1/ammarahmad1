@@ -26,7 +26,7 @@
 ```python
 ammar = {
     "location"    : "Pakistan 🇵🇰",
-    "role"        : "Software Engineer @ Devstrix | Ex-Co-founder @ Auto-Scale AI",
+    "role"        : "Software Engineer @ Tabiat | Ex-Co-founder @ Auto-Scale AI",
     "focus"       : ["AI Automation", "Full Stack Dev", "Web3", "Scalable Systems"],
     "building"    : ["AI Voice Agents", "Custom CRM Platforms"],
     "philosophy"  : "Ship fast. Iterate faster. Make the impossible possible.",
@@ -219,8 +219,8 @@ A mobile legal evidence system with structured claim workflows, photo capture, a
 ## 💼 Experience Timeline
 
 ```
-2026 (Present) ──► Software Engineer @ Devstrix, Islamabad
-                   CRM development, React modules, API integrations
+2026 (Present) ──► Software Engineer @ Tabiat, Islamabad
+                   Health Care, Next modules, API integrations
 
 2025 – 2026    ──► Product Engineer @ Auto-Scale AI, Germany (Remote)
                    Co-founded AI startup | Voice agents | LLM integrations
